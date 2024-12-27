@@ -34,10 +34,10 @@ See [Writing short and clear](writing_short.md).
 <table style="none" border="false">
   <tr>
 <td width="50%">
-      <format color="Green" style="bold">Correct</format><img src="02_How_to_use_correct.png" alt="A correct example of a repository input field without values"/>
+      <format color="Green" style="bold">Correct</format><img src="02_How_to_use_correct.png" alt="A correct example of a tab label"/>
     </td>
     <td width="50%">
-      <format color="Red" style="bold">Incorrect</format><img src="02_How_to_use_incorrect.png" alt="An incorrect example of a repository input field without values"/>
+      <format color="Red" style="bold">Incorrect</format><img src="02_How_to_use_incorrect.png" alt="An incorrect example of a tab label"/>
     </td>
   </tr>
 </table>
