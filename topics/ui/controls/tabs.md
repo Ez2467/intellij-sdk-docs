@@ -62,7 +62,7 @@ Do not remove or disable a tab when its function is unavailable. Explain why a t
 Always place tabs on top. It is possible to place them at other sides of the content — bottom, left, or right — but such a placement is extremely rare and might confuse users.
 
 
-### Tabs and independent content
+### Independent content
 
 Do not place independent content under the tabs. Create separate tabs for such content.
 
